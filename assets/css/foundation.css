@@ -1,0 +1,8 @@
+body:before { 
+                            white-space: pre; 
+                            font-family: monospace; 
+                            content: 'Sass \\Users\\garethjohns\\Documents\\GitTower\\eva-cassidy\\assets\\scss\\foundation.scss:8: file to import not found or unreadable: foundation\\components\\grid \A Current dir: \\Users\\garethjohns\\Documents\\GitTower\\eva-cassidy\\assets\\scss\\ \A '; } 
+                            
+                            body * { 
+                            display: none; 
+                            } 

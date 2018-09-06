@@ -1,0 +1,23 @@
+Development
+
+http://eva-cassidy.garethjohnsdesign.com/
+
+{
+  "host": "205.186.139.120",
+  "port": 21,
+  "username": "garethjohnsabc",
+  "password": "kugAcenAWR4xur3pE#aS",
+  "path": “/eva-cassidy.garethjohnsdesign.com/",
+  "secure": false
+}
+
+Live
+
+{
+  "host": "205.186.139.120",
+  "port": 21,
+  "username": "evanightbird",
+  "password": "kugAcenAWR4xur3pE#aS",
+  "path": "/httpdocs/",
+  "secure": false
+}
